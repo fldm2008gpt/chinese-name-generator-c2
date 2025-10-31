@@ -70,7 +70,7 @@ export default function Home() {
             {/* Badge */}
             <div className="inline-flex items-center gap-2 mb-6 px-4 py-2 bg-primary/10 border border-primary/20 rounded-full">
               <Sparkles className="w-4 h-4 text-primary" />
-              <span className="text-sm font-medium text-primary">AI 智能中文起名工具1.3</span>
+              <span className="text-sm font-medium text-primary">AI 智能中文起名工具1.4</span>
             </div>
 
             {/* Main Heading */}
